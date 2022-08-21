@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/TheChocolateTeam/.github/blob/main/profile/cleanBanner.png?raw=true" width="900px">
+</p>
+
 # 💫 About Use:
 🍫This is the organization account of the Chocolate project.
 
