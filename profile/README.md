@@ -9,6 +9,7 @@
 # 💻 Tech Used:
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML5">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS3">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg" alt="Javascript">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg" alt="Flask">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma">
