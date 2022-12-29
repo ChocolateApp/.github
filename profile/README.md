@@ -12,6 +12,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg" alt="Flask">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma">
+
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
  # 💰 You can help use by Donating
