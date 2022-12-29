@@ -7,12 +7,11 @@
 
 
 # 💻 Tech Used:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML5">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS3">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" alt="Python">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask1.svg" alt="Flask">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" alt="Figma">
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
  # 💰 You can help use by Donating
